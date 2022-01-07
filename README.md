@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript and C#**
 
-- 📫 How to reach me **mhaseeb.cs@gmail.com**
+- 📫 Reach to me at **mhaseeb.cs@gmail.com**
 
 - ⚡ Fun fact **I am always on on hunt for new Technologies**
 
